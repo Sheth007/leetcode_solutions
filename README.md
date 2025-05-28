@@ -1,2 +1,2 @@
 # leetcode_solutions
-I am uploading the leetcodes problems and solutions
+Here I am uploading the leetcode's solution using python.
