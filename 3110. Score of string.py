@@ -6,3 +6,4 @@ class Solution(object):
             sum = abs(ascii_value[i] - ascii_value[i+1])
             score += sum
         return score
+        
