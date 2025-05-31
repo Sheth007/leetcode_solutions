@@ -5,3 +5,7 @@ __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"
 and once you will hit ths submit button VOILA you've got 0ms in runtime,
 
 this is for python but you can conver this to your code language 👍 
+
+HOW I FOUND OUT ???
+
+https://leetcode.com/problems/reshape-data-concatenate/ go to this link and check the submission and click on least milliseconds to see their code and voila I found out that above code line
