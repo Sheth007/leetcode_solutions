@@ -4,7 +4,7 @@ __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"
 
 and once you will hit ths submit button VOILA you've got 0ms in runtime,
 
-this is for python but you can conver this to your code language 👍 
+this is for python but you can convert this to your code language 👍 
 
 HOW I FOUND OUT ???
 
